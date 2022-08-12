@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tMjFRhMR5FsmBFb+rmAQj7pupJ/jgW+CGrekfWvjJrFLvewyk9i5jrKdo4HncMcqNzmk5FJkv/FVcR5k+J1yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Reporting-Microservice\\Reporting\\src\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\hp\\Desktop\\Reporting-Microservice\\Reporting\\src\\EventBus\\EventBus.AzureServiceBus\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

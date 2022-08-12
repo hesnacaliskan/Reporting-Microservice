@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\Users\Talha\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\Talha\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\Talha\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\Talha\OneDrive\Masaüstü\Reporting\Reporting\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
